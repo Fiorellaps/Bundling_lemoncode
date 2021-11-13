@@ -1,0 +1,12 @@
+$blue-color: salmon;
+$my-font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+.red-background {
+  background-color: $blue-color;
+  font-family: $my-font-family;
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  width: 200px;
+}
